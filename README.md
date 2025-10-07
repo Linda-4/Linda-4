@@ -1,16 +1,13 @@
 ## Hi there 👋
+# Hi, I'm Linda Nyarko! 
+### �� About Me
+- ��️ Cybersecurity Specialist
+- �� Exploring Network Security, Penetration testing, SOC, and Threat Intelligence
+- �� Lifelong learner passionate about protecting systems and people
+### �� My Work
+- �� [LinkedIn Profile](https://www.linkedin.com/in/linda-nyarko)
+### ��️ Skills
+- **Technical Expertise**: Web &amp; Application Security, Penetration Testing,
+Risk Assessments, Network Security, Endpoint security,
+- **Tools**: Nmap, Metasploit, Wireshark, Google Cloud, Kali Linux, Wazuh, PFSense
 
-<!--
-**Linda-4/Linda-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
